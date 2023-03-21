@@ -1,0 +1,7 @@
+--constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.4.3/constraints-3.10.txt"
+
+apache-airflow-providers-snowflake==3.3.0
+apache-airflow-providers-mysql==3.2.1
+neo4j==5.6.0
+xmlschema==2.2.2
+xmltodict==0.13.0
